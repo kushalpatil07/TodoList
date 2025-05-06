@@ -3,7 +3,7 @@
 # 📝 To-Do List App Installation Guide (macOS)
 
 ## 1. Download the App
-- [Download the app here](#https://github.com/kushalpatil07/TodoList/releases/download/v0.1/todolist.zip) 
+- [Download the app here](https://github.com/kushalpatil07/TodoList/releases/download/v0.1/todolist.zip) 
 
 ## 2. Allow the App to Run (Unsigned App)
 Since the app is not signed yet, macOS will block it by default. Follow these steps to allow it to run:
@@ -32,7 +32,7 @@ Once the app is running:
 ## 5. Install Chrome Extension
 To push tasks directly from webpages or Gmail:
 
-1. [Download the extension zip](#https://github.com/kushalpatil07/TodoList/releases/download/v0.1/chrome_extension.zip)
+1. [Download the extension zip](https://github.com/kushalpatil07/TodoList/releases/download/v0.1/chrome_extension.zip)
 2. Unzip the file.
 3. Open **Chrome** and go to `chrome://extensions`.
 4. Enable **Developer mode** (top-right toggle).
