@@ -1,5 +1,10 @@
-# TodoList
+# ✅ To-Do List App
 
+A privacy-first, cross-platform to-do list app powered by on-device LLMs.
+
+👉 **[Skip to How to Use the App »](#-how-to-use-the-app)**
+
+---
 # 📝 To-Do List App Installation Guide (macOS)
 
 ## 1. Download the App
@@ -40,4 +45,31 @@ To push tasks directly from webpages or Gmail:
 
 ---
 
-Enjoy managing your tasks seamlessly
+## 🚀 How to Use the App
+
+### 📨 Pushing Tasks
+- Push tasks from **Slack** or **Gmail** using the in-app button.
+- While browsing, use the **Chrome extension** to quickly add tasks.
+
+### 🏷️ Labelling Tasks
+- You can create custom **labels** to organize tasks (optional).
+- After a few examples, the app will **auto-label** incoming tasks.
+- If the LLM mislabels, add some **User Context** in **Settings** to improve accuracy.
+
+### 🗓️ Planning Your Day (for 15+ tasks)
+1. Set a **date** for each task—Today, Tomorrow, or later.
+2. Go to the **Current Tasks** page and work only from there.
+3. Reschedule tasks easily if something urgent comes up.
+
+> 📌 No need to assign priorities like P1/P2—just assign a day you want to get it done.
+
+> 💡 Planning suggestions are coming soon to make this even easier!
+
+---
+
+## 🛠️ Support & Feedback
+Have questions, issues, or ideas? We'd love to hear from you. [Contact us](#) or open an issue.
+
+---
+
+Happy tasking!
