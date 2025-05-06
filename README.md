@@ -31,7 +31,12 @@ Once the app is running:
 - Follow the link to install **Ollama**.
 
 ### 📦 Download the Model
-- Recommended model: `llama3.2:latest`  
+- Recommended model: `llama3.2:latest`
+Other models it works well with are 
+`llama3.2:3b-instruct-q4_K__M`
+`llama3.2:3b-instruct-q3_K__M` (should work slightly faster) 
+`gemma3:latest`
+
   You can download it via the text box provided. Or via the Ollama interface.
 
 ## 5. Install Chrome Extension
