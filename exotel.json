@@ -3,6 +3,6 @@
   "destination": {
     "numbers": ["sip:2407h8zi3y5.sip.livekit.cloud"]
   },
-  "outgoing_phone_number": "+919513886363",  // Your Exotel virtual number
+  "outgoing_phone_number": "+919513886363",
   "record": true
 }
