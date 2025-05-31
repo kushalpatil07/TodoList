@@ -2,7 +2,5 @@
   "fetch_after_attempt": false,
   "destination": {
     "numbers": ["sip:2407h8zi3y5.sip.livekit.cloud"]
-  },
-  "outgoing_phone_number": "+911141170788",
-  "record": true
+  }
 }
